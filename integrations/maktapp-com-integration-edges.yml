@@ -1,0 +1,22 @@
+generated: '2026-10-25'
+method: none
+source:
+- https://zapier.com/apps/maktapp-com/integrations
+- https://zapier.com/apps/maktapp/integrations
+- https://zapier.com/apps/fatora/integrations
+- https://n8n.io/integrations/maktapp-com/
+- https://n8n.io/integrations/maktapp/
+- https://composio.dev/toolkits/maktapp-com
+- https://monid.ai/tools/maktapp-com
+checked:
+- https://composio.dev/toolkits/maktapp-com
+- https://monid.ai/tools/maktapp-com
+- https://n8n.io/integrations/maktapp-com/
+- https://n8n.io/integrations/maktapp/
+- https://zapier.com/apps/fatora/integrations
+- https://zapier.com/apps/maktapp-com/integrations
+- https://zapier.com/apps/maktapp/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

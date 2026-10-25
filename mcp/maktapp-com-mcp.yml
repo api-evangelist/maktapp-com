@@ -1,0 +1,7 @@
+generated: '2026-10-25'
+method: derived
+type: MCPServer
+deployment:
+  mode: none
+  verified: derived
+source: https://maktapp.com
